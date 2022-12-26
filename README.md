@@ -1,0 +1,1 @@
+## node napi rust template
